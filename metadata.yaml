@@ -1,0 +1,24 @@
+_repo: With-Kelly-to-Chitral_10603
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beynon, William George Laurence, Sir
+    birthdate: 1866
+    deathdate: 1955
+    gutenberg_agent_id: '3595'
+    url: http://www.gutenberg.org/2009/agents/3595
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10603'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'India -- History -- Chitral Campaign, 1895'
+- GITenberg
+title: With Kelly to Chitral
+url: http://www.gutenberg.org/ebooks/10603
